@@ -1,7 +1,7 @@
 # Distributed Backdoor Attacks on Federated Graph Learning and Certified Defenses  (CCS 2024)
 This is the official implementation of "Distributed Backdoor Attacks on Federated Graph Learning and Certified Defenses"
 
-- [ ] Code will be released soon later.
+- [x ] Code will be released soon later.
 
 ## Introduction
 Federated graph learning (FedGL) is an emerging federated learning (FL) framework that extends FL to learn graph data from diverse sources. FL for non-graph data has shown to be vulnerable to backdoor attacks, which inject a shared backdoor trigger into the training data such that the trained backdoored FL model can predict the testing data containing the trigger as the attacker desires. However, FedGL against backdoor attacks is largely unexplored, and no effective defense exists. 
